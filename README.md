@@ -1,9 +1,9 @@
-# Code-of-Conduct
+# Camp Code of Conduct
 ## Authors:
 * [Dennis Deacon](https://www.meetup.com/a11ychi/members/5566591/) - Organizer 
 * [Nick Ng](https://www.meetup.com/a11ychi/members/211117238/) - Co-Organizer
 
-Date: Monday, September 25, 2017
+Date: Saturday, April 7, 2018
 
 ## Don’t Have Time to Read…
 Our meetup group/community is based on treating all individuals inclusively and respectfully, regardless of gender, sexual orientation, physical appearance, body size, age, disability, ethnicity or religion. Treat each other with the utmost respect and we’ll all get along just fine.
